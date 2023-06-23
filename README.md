@@ -4,6 +4,7 @@
    <Tittle>Emerson Fontela Refrigeração,Bazar e Ferragem</Tittle>
  </Head>
   <Body>
+    <Img Src="/camera/FB_IMG_1687561447758.jpg"">
    <P>Trabalhamos com concertos de eletrodomésticos e ar condicionados em geral.<Br>
 - Máquinas de lavar e seca roupas<Br>
 - Centrífugas<Br>
