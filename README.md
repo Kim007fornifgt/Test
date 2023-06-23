@@ -5,15 +5,15 @@
  </Head>
   <Body>
    <P>Trabalhamos com concertos de eletrodomésticos e ar condicionados em geral.<Br>
-- Máquinas de lavar e seca roupas<Br>
+<Em>- Máquinas de lavar e seca roupas<Br>
 - Centrífugas<Br>
 - Geladeiras e Freezers<Br>
-- Micro-ondas<Br></P>
+- Micro-ondas<Br></em></P>
     <P>Na loja, temos também várias opções para você:<Br>
-~> Canos para Fogão a lenha<Br>
+<em>~> Canos para Fogão a lenha<Br>
 ~> Cadeiras de abrir<Br>
 ~> Machados<Br>
-~> Cuias<Br></p>
+~> Cuias<Br></em></p>
   <p>confira nossa loja:<Br>
 📌 Avenida Júlio Tróis 827 <Br>
 📞 (55)99674-5172<Br>
