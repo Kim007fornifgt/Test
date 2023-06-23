@@ -8,9 +8,8 @@
 - Máquinas de lavar e seca roupas<Br>
 - Centrífugas<Br>
 - Geladeiras e Freezers<Br>
-- Micro-ondas<Br>
-<em>entre outros</em><Br>
-Na loja, temos também várias opções para você:<Br>
+- Micro-ondas<Br></P>
+    <P>Na loja, temos também várias opções para você:<Br>
 ~> Canos para Fogão a lenha<Br>
 ~> Cadeiras de abrir<Br>
 ~> Machados<Br>
