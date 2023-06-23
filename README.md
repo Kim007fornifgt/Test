@@ -3,7 +3,9 @@
   <Head>
    <Tittle>Emerson Fontela Refrigeração,Bazar e Ferragem</Tittle>
  </Head>
- <Body>
-  <P> Venha conferir alguns dos nossos produtos:<Br>
-  </P>
- <a Href=https://emerson-fontela-refrigeracao.negocio.site/?utm_source=gmb&utm_medium=referral>Clique aqui ➡️</a>
+  <Body>
+   <P>Trabalhamos com concertos de eletrodomésticos e ar condicionados em geral<Br>
+- Máquinas de lavar e seca roupas<Br>
+  </p>
+ </body>
+ </Html>
