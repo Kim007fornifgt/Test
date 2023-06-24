@@ -1,7 +1,7 @@
 <!Doctype HTML>
  <Html>
   <Head>
-   <Tittle>Emerson Fontela Refrigeração,Bazar e Ferragem</Tittle>
+   <Tittle><strong>Emerson Fontela Refrigeração,Bazar e Ferragem</strong></Tittle>
  </Head>
   <Body>
    <P>Trabalhamos com concertos de eletrodomésticos e ar condicionados em geral.<Br>
@@ -14,10 +14,10 @@
 ~> Cadeiras de abrir<Br>
 ~> Machados<Br>
 ~> Cuias<Br></em></p>
-  <p><em><strong>confira nossa loja:<Br>
+  <p><strong>confira nossa loja:<Br>
 📌 Avenida Júlio Tróis 827 <Br>
 📞 (55)99674-5172<Br>
-☎️ 3430-3594</strong></em>
+☎️ 3430-3594</strong>
   </p>
  </body>
  </Html>
