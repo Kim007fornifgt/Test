@@ -1,14 +1,14 @@
 <!Doctype HTML>
  <Html>
   <Head>
-   <Tittle><strong>Emerson Fontela Refrigeração,Bazar e Ferragem</strong></Tittle>
+   <Tittle><strong>Emerson Fontela Refrigeração, Bazar e Ferragem</strong></Tittle>
  </Head>
   <Body>
-   <P>Trabalhamos com concertos de eletrodomésticos e ar condicionados em geral.<Br>
-<Em>- Máquinas de lavar e seca roupas<Br>
+   <P>Trabalhamos com concertos de eletrodomésticos e ar condicionados em geral:<Br>
+- Máquinas de lavar e seca roupas<Br>
 - Centrífugas<Br>
 - Geladeiras e Freezers<Br>
-- Micro-ondas<Br></em></P>
+- Micro-ondas</P>
     <P>Na loja, temos também várias opções para você:<Br>
 <em>~> Canos para Fogão a lenha<Br>
 ~> Cadeiras de abrir<Br>
