@@ -14,10 +14,10 @@
 ~> Cadeiras de abrir<Br>
 ~> Machados<Br>
 ~> Cuias<Br></em></p>
-  <p>confira nossa loja:<Br>
+  <p><em><strong>confira nossa loja:<Br>
 📌 Avenida Júlio Tróis 827 <Br>
 📞 (55)99674-5172<Br>
-☎️ 3430-3594
+☎️ 3430-3594</strong></em>
   </p>
  </body>
  </Html>
